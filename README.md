@@ -1,2 +1,2 @@
 # sushibar
-NSTouchbar sample app. see https://twitter.com/mzp/status/799856396778905600
+NSTouchbar sample app. see https://github.com/mzp/sushibar
